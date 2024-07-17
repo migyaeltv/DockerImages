@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Fprint(w, "<h1>Full Cycle Rocks!!</h1>")
+	fmt.Sprintln("Full Cycle Rocks!!!")
 }

@@ -12,7 +12,7 @@ COPY --from=builder /app /app
 
 EXPOSE 1000
 
-CMD ["/app"]
+
 
 
 
